@@ -1,5 +1,4 @@
 // =============================================================================
-//  ⬡  ANDURIL INDUSTRIES — MACHINE SHOP INVENTORY SYSTEM
 //  División : Autonomous Weapon Systems / Ground Operations
 //  Bodega   : Sector Alpha, Nivel B2
 //
